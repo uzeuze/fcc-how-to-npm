@@ -1,6 +1,6 @@
 {
   "name": "@uzeuze/hello-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hello-npm",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uzeuze/fcc-how-to-npm"
+    "url": "git+https://github.com/uzeuze/fcc-how-to-npm.git"
   },
-  "author": "",
+  "author": "uzeuze",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/uzeuze/fcc-how-to-npm/issues"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/uzeuze/fcc-how-to-npm#readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
